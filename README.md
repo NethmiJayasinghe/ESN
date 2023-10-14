@@ -1,1 +1,1 @@
-A code for Echo State Network from basic level to advance level # ESN
+A code for Echo State Network from the basic level # ESN
